@@ -1,0 +1,4 @@
+fly-agaric 0 10
+agaricus 1 0
+chanterelle 1 0
+porcini 1 0
